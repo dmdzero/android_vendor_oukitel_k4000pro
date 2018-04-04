@@ -1,4 +1,4 @@
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/oukitel/k4000pro/app,system/app)
+#PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/oukitel/k4000pro/app,system/app)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/oukitel/k4000pro/lib,system/lib)
 

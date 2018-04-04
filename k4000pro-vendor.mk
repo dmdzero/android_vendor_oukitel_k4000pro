@@ -16,3 +16,5 @@
 
 # Pick up overlay for features that depend on non-open-source files
 $(call inherit-product, vendor/oukitel/k4000pro/k4000pro-vendor-blobs.mk)
+PRODUCT_PACKAGES += \
+vebview \
